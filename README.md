@@ -1,5 +1,5 @@
 # fstrepo1
-hello
+hi
 <br>
 hi
 <hr>
@@ -8,3 +8,4 @@ hi
 <hr>
 <u>underlined text</u>
 <hr>
+<b>this text is bold</b>
